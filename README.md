@@ -14,7 +14,7 @@ During my undergrad period I conducted research mainly on transport properties o
 
 我目前的研究兴趣主要包括：利用机器学习方法理解缺陷与非晶体系，预测实验合成材料方案等。同时，我也对预测能源材料的新颖性能以及反向设计下一代先进功能材料具有广泛兴趣。
 
-Specifically, my current interest includes understanding defects and amorphous systems using computational methods, and predicting experimental synthesis recipe using advanced machine learning techniques. I’m also generally interested in predicting novel properties of energy materials, and inverse designing next-generation advanced functional materials.
+My current interest includes understanding defects and amorphous systems using computational methods, and predicting experimental synthesis recipe using advanced machine learning techniques. I’m also generally interested in predicting novel properties of energy materials, and inverse designing next-generation advanced functional materials.
 
 如果想要了解更多内容，欢迎移步我的个人主页 [我的主页~](https://vipandyc.github.io/)，会有不定期更新。没错上面那段话是从主页的英文版本机翻来的U•ェ•*U）谢谢朋友们！！！
 
